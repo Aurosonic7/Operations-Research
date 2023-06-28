@@ -5,7 +5,7 @@
 <!-- title -->
 <h1 align=center>Operations-Research</h1>
 <br>
-<h3 align=left>Projects of operations research 👨🏻‍💻</h3>
+<h3 align=left>Projects of operations research 🔭👨🏻‍💻</h3>
 
 <details>
   <summary><h3>⚙️ Simplex Method ⚙️</h3></summary>
@@ -34,7 +34,7 @@
   
 </details>
 <details>
-  <summary><h3>⛓️ Cadenas de markov y Lineas de espera ✋🏼</h3></summary>
+  <summary><h3>⛓️ Markov chains and waiting lines ✋🏼</h3></summary>
   <!-- Aqui va la explicación -->
   
 </details>
