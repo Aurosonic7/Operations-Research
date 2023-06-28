@@ -38,10 +38,14 @@
   <!-- Aqui va la explicación -->
   
 </details>
-<h3>Errors or suggestions 🔥</h3>
+<h3 align=center>🔥 Errors or suggestions 🔥</h3>
 
 - <p>The program in this repository is a BETA so it may present some errors or details with some exercises</p>
 - <p>Any questions or suggestions you can notify me by email</p>
 
+<br>
+
+<h3 align=center>💵 You would help me a lot with your donation!!! 💵</h3>
+<p align=center><a href="https://www.paypal.me/aurosonic7"><img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-PNG-Image.png" width="25%"/></a></p>
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
