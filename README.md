@@ -1,7 +1,7 @@
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- logo -->
-<p align="center"><img src="https://business.fiu.edu/executive-education/operations-management/img/operations-management-min.jpg" width="100%"></p>
+<p align="center"><img src="https://fundacioncarlosslim.org/wp-content/uploads/2021/07/investigacion-operaciones-curso-1.jpg" width="100%"></p>
 <!-- title -->
 <h1 align=center>Operations-Research</h1>
 <br>
