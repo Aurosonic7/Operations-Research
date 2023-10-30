@@ -37,6 +37,12 @@
   <summary><h3>⛓️ Markov chains and waiting lines ✋🏼</h3></summary>
   <!-- Aqui va la explicación -->
   
+   - <p>Download the directory "Markov_Lineas_Espera"</p>
+  
+  <br>
+  <a href="https://github.com/Aurosonic7/Operations-Research/tree/main/Markov_Lineas_Espera"><img src="https://media.giphy.com/media/pPRrlurSP8lEc/giphy.gif"/></a>
+  <br>
+  
 </details>
 <h3 align=center>🔥 Errors or suggestions 🔥</h3>
 
